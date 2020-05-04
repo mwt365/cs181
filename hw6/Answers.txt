@@ -1,0 +1,46 @@
+﻿Answers.txt
+
+1. choosing learning rate
+I used a learning rate of 1e-6 to make to optimal loss ratio. In the graph shown below, it is the grey plot. Blue is e-10, and red is e-05
+
+
+
+2. Clipping
+
+Here I have chosen 1e-4 as the learning rate
+
+
+
+
+
+
+
+
+
+
+
+3. I think that the clipped optimization is converging faster than the unclipped version
+
+4. Using Adam
+For this, I chose 1e-2 as the learning rate
+
+
+
+5. Using a different RNN
+I tried using the RMSprop algorithm, and I found that it worked best at a learning rate of 1e-4, shown here as red/orange
+
+
+
+
+6. Using GRU, I was able to get the best accuracy at 1e-3
+
+Using LSTM, I found the best accuracy again at 1e-3
+
+
+7. I found a good solution to be 128 hidden layers, and 2 num_layers
+
+8. With a batch size of 16, I found that the optimal learning rate (using SGD) to be 1e-3
+
+9. I’ve noticed that the cnn takes longer to run, and that the learning rates I could generate were about the same.
+
+10. I tried to run a longrun training session, but the computer kept locking up and restarting after about 10 minutes. I’ll try it again on a server where I can run for longer
