@@ -8,13 +8,13 @@ Code for this project is [here](names_part1.py)
 
 ### Images
 
-![](explain_outputs/fatima.char.pngraw=true)
+![](explain_outputs/fatima.char.png?raw=true)
 
-![](explain_outputs/fatima.word.pngraw=true)
+![](explain_outputs/fatima.word.png?raw=true)
 
-![](explain_outputs/renfrew.char.pngraw=true)
+![](explain_outputs/renfrew.char.png?raw=true)
 
-![](explain_outputs/renfrew.word.pngraw=true)
+![](explain_outputs/renfrew.word.png?raw=true)
 
-![](explain_outputs/saudi_arabia.char.pngraw=true)
-![](explain_outputs/saudi_arabia.word.pngraw=true)
+![](explain_outputs/saudi_arabia.char.png?raw=true)
+![](explain_outputs/saudi_arabia.word.png?raw=true)
